@@ -25,12 +25,6 @@
         <mxCell id="4ryYMK7Xd4d2TA8FRhWJ-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="参数融合&#xa;PBR参数 + 力学参数 + 碰撞体" vertex="1">
           <mxGeometry height="102" width="260" x="161" y="1147" as="geometry" />
         </mxCell>
-        <mxCell id="4ryYMK7Xd4d2TA8FRhWJ-9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="核心模块3: 轻量化理想化物理引擎适配&#xa;裁剪冗余 / 修正数值误差" vertex="1">
-          <mxGeometry height="87" width="259" x="162" y="1299" as="geometry" />
-        </mxCell>
-        <mxCell id="4ryYMK7Xd4d2TA8FRhWJ-10" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="输出: 仿真就绪3D教具&#xa;支持直接拖拽拼装实验" vertex="1">
-          <mxGeometry height="63" width="191" x="196" y="1460" as="geometry" />
-        </mxCell>
         <mxCell id="4ryYMK7Xd4d2TA8FRhWJ-11" edge="1" parent="1" source="4ryYMK7Xd4d2TA8FRhWJ-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="4ryYMK7Xd4d2TA8FRhWJ-3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -82,16 +76,6 @@
             <Array as="points">
               <mxPoint x="436" y="1122" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4ryYMK7Xd4d2TA8FRhWJ-19" edge="1" parent="1" source="4ryYMK7Xd4d2TA8FRhWJ-8" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="4ryYMK7Xd4d2TA8FRhWJ-9" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4ryYMK7Xd4d2TA8FRhWJ-20" edge="1" parent="1" source="4ryYMK7Xd4d2TA8FRhWJ-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="4ryYMK7Xd4d2TA8FRhWJ-10" value="确保符合课本理想模型">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
